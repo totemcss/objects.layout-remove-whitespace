@@ -1,6 +1,6 @@
 {
   "name": "totem-layout-remove-whitespace",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A layout abstraction modifier class in the inuitcss framework",
   "main": "_objects.layout-remove-whitespace.scss",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/totemcss/objects.layout-remove-whitespace#readme",
   "dependencies": {
-    "inuit-layout": "~0.3.x"
+    "inuit-layout": "~0.2.x"
   }
 }
