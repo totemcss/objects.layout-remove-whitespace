@@ -1,10 +1,27 @@
 {
   "name": "totem-layout-remove-whitespace",
-  "version": "0.1.0",
-  "authors": "Florian Bouvot",
+  "version": "0.2.0",
+  "description": "A layout abstraction modifier class in the inuitcss framework",
   "main": "_objects.layout-remove-whitespace.scss",
+  "authors": [
+    "Florian Bouvot <florian.bouvot@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "homepage": "https://github.com/totemcss/objects.layout-remove-whitespace",
+  "moduleType": [],
   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
     "test",
-    ".*"
-  ]
+    "tests"
+  ],
+  "dependencies": {
+    "inuit-layout": "~0.3"
+  }
 }
